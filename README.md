@@ -59,8 +59,7 @@ Ingeniera Comercial con experiencia en análisis de datos, automatización de pr
 - Español — Nativo
 - Inglés — B1
 
-</details>
-
+</details> 
 ---
 
 <!-- ENGLISH VERSION -->
