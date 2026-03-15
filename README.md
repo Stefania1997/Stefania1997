@@ -114,9 +114,6 @@ Business Administration with experience in data analysis, process automation and
 
 ---
 
-## 🌍 Idiomas
-- Español — Nativo
-- Inglés — B1
 
 </details>
 
