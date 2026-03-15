@@ -1,57 +1,3 @@
-<!-- ENGLISH VERSION -->
-<details>
-<summary>🇺🇸 English</summary>
-
-# Hi, I'm Gloria Cornelio 👋
-
-**Junior Full Stack Developer** in training | Santiago, Chile
-
-Business Administration with experience in data analysis, process automation and reporting with Power BI. Currently completing an intensive **Full Stack Jr JavaScript bootcamp** at Generation Chile, building real projects with React, Node.js and agile methodologies.
-
-📫 Gloria.01.97@gmail.com · [LinkedIn](https://www.linkedin.com/in/gloria-cornelio-7846261b8/)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Demo |
-|---|---|---|---|
-| 🏢 WorkHub Coworking | Workspace booking system | HTML · CSS · Bootstrap · JS | [Live demo →](URL-AQUI) |
-| 🍽️ Restaurant Landing | Landing page with dynamic menu | Node.js · Express · PostgreSQL | [Live demo →](URL-AQUI) |
-| 🐾 PawFriends | Pet walking & care platform | HTML · CSS · JavaScript | [View repo →](https://github.com/m0dz/PawFriends-main) |
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** JavaScript · React · HTML5 · CSS3 · Bootstrap
-
-**Backend:** Node.js · Express · MongoDB · PostgreSQL · REST APIs
-
-**Data & Tools:** Python · SQL · Power BI (Power Query + DAX) · Git · n8n · Jira · Scrum
-
----
-
-## 📚 Education
-
-- 🎓 **Full Stack Jr JavaScript Bootcamp** — Generation Chile (2026)
-- 📊 **Power BI: Power Query + DAX** — UTEM (Jan–Feb 2026)
-- 🤖 **AI for Marketing & Sales (n8n)** — Somos Nodo (2025)
-- 🎓 **Business Administration** — Universidad Tecnológica Metropolitana
-
----
-
-## 🌍 Languages
-- Spanish — Native
-- English — B1
-
-</details>
-
-
-
----
-
-
 <!-- VERSIÓN EN ESPAÑOL -->
 <details open>
 <summary>🇨🇱 Español</summary>
@@ -102,10 +48,69 @@ Ingeniera Comercial con experiencia en análisis de datos, automatización de pr
 
 ## 📚 Formación
 
-- 🎓 **Bootcamp Full Stack Jr JavaScript** — Generation Chile (2026)
+- 🎓 **Bootcamp Full Stack Jr JavaScript** — Generation Chile (2025)
 - 📊 **Power BI: Power Query + DAX** — UTEM (Ene–Feb 2026)
-- 🤖 **IA para Marketing y Ventas (n8n)** — Somos Nodo (2025)
+- 🤖 **IA para Marketing y Ventas (n8n)** — Somos Nodo (2024)
 - 🎓 **Ingeniería Comercial** — Universidad Tecnológica Metropolitana
+
+---
+
+## 🌍 Idiomas
+- Español — Nativo
+- Inglés — B1
+
+</details>
+
+---
+
+<!-- ENGLISH VERSION -->
+<details>
+<summary>🇺🇸 English</summary>
+
+# Hi, I'm Gloria Cornelio 👋
+
+**Junior Full Stack Developer** in training | Santiago, Chile
+
+Business Administration with experience in data analysis, process automation and reporting with Power BI. Currently completing an intensive **Full Stack Jr JavaScript bootcamp** at Generation Chile, building real projects with React, Node.js and agile methodologies.
+
+📫 Gloria.01.97@gmail.com · [LinkedIn](https://www.linkedin.com/in/gloria-cornelio-7846261b8/)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Demo |
+|---|---|---|---|
+| 🏢 WorkHub Coworking | Workspace booking system | HTML · CSS · Bootstrap · JS | [Live demo →](URL-AQUI) |
+| 🍽️ Restaurant Landing | Landing page with dynamic menu | Node.js · Express · PostgreSQL | [Live demo →](URL-AQUI) |
+| 🐾 PawFriends | Pet walking & care platform | HTML · CSS · JavaScript | [View repo →](https://github.com/m0dz/PawFriends-main) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:** JavaScript · React · HTML5 · CSS3 · Bootstrap
+
+**Backend:** Node.js · Express · MongoDB · PostgreSQL · REST APIs
+
+**Data & Tools:** Python · SQL · Power BI (Power Query + DAX) · Git · n8n · Jira · Scrum
+
+---
+
+## 📚 Education
+
+- 🎓 **Full Stack Jr JavaScript Bootcamp** — Generation Chile (2025)
+- 📊 **Power BI: Power Query + DAX** — UTEM (Jan–Feb 2026)
+- 🤖 **AI for Marketing & Sales (n8n)** — Somos Nodo (2024)
+- 🎓 **Business Administration** — Universidad Tecnológica Metropolitana
+
+---
+
+## 🌍 Languages
+- Spanish — Native
+- English — B1
+
+</details>
 
 ---
 
