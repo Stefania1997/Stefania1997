@@ -6,7 +6,7 @@
 
 **Junior Full Stack Developer** in training | Santiago, Chile
 
-Commercial Engineer with experience in data analysis, process automation and reporting with Power BI. Currently completing an intensive **Full Stack Jr JavaScript bootcamp** at Generation Chile, building real projects with React, Node.js and agile methodologies.
+Business Administration with experience in data analysis, process automation and reporting with Power BI. Currently completing an intensive **Full Stack Jr JavaScript bootcamp** at Generation Chile, building real projects with React, Node.js and agile methodologies.
 
 📫 Gloria.01.97@gmail.com · [LinkedIn](https://www.linkedin.com/in/gloria-cornelio-7846261b8/)
 
@@ -37,7 +37,7 @@ Commercial Engineer with experience in data analysis, process automation and rep
 - 🎓 **Full Stack Jr JavaScript Bootcamp** — Generation Chile (2026)
 - 📊 **Power BI: Power Query + DAX** — UTEM (Jan–Feb 2026)
 - 🤖 **AI for Marketing & Sales (n8n)** — Somos Nodo (2025)
-- 🎓 **Commercial Engineering** — Universidad Tecnológica Metropolitana
+- 🎓 **Business Administration** — Universidad Tecnológica Metropolitana
 
 ---
 
@@ -116,5 +116,3 @@ Ingeniera Comercial con experiencia en análisis de datos, automatización de pr
 </details>
 
 
-
-</details>
