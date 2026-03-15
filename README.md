@@ -115,9 +115,6 @@ Ingeniera Comercial con experiencia en análisis de datos, automatización de pr
 
 </details>
 
----
 
-
-- English — B1
 
 </details>
