@@ -1,5 +1,5 @@
 <!-- VERSIÓN EN ESPAÑOL -->
-<details>
+<details open>
 <summary>🇨🇱 Español</summary>
 
 # Hola, soy Gloria Cornelio 👋
