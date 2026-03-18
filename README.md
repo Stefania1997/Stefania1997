@@ -16,8 +16,8 @@ Ingeniera Comercial con experiencia en análisis de datos, automatización de pr
 
 | Proyecto | Descripción | Stack | Demo |
 |---|---|---|---|
-| 🏢 WorkHub Coworking | Sistema de reservas de espacios de trabajo | HTML · CSS · Bootstrap · JS | [Ver en vivo →](URL-AQUI) |
-| 🍽️ Landing Restaurante | Landing page con menú dinámico | Node.js · Express · PostgreSQL | [Ver en vivo →](URL-AQUI) |
+| 🏢 WorkHub Coworking | Sistema de reservas de espacios de trabajo | HTML · CSS · Bootstrap · JS | [Ver repo →](https://github.com/sergiosebastiansc/Proyecto-integrador) |
+| 🍽️ Landing Restaurante | Landing page con menú dinámico | Node.js · Express · PostgreSQL | [Ver repo →](https://github.com/Stefania1997/Landing-Page-de-un-Restaurante) |
 | 🐾 PawFriends | Plataforma de paseo y cuidado de mascotas | HTML · CSS · JavaScript | [Ver repo →](https://github.com/m0dz/PawFriends-main) |
 
 ---
@@ -80,8 +80,8 @@ Business Administration with experience in data analysis, process automation and
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| 🏢 WorkHub Coworking | Workspace booking system | HTML · CSS · Bootstrap · JS | [Live demo →](URL-AQUI) |
-| 🍽️ Restaurant Landing | Landing page with dynamic menu | Node.js · Express · PostgreSQL | [Live demo →](URL-AQUI) |
+| 🏢 WorkHub Coworking | Workspace booking system | HTML · CSS · Bootstrap · JS | [View repo →](https://github.com/sergiosebastiansc/Proyecto-integrador) |
+| 🍽️ Restaurant Landing | Landing page with dynamic menu | Node.js · Express · PostgreSQL | [View repo →](https://github.com/Stefania1997/Landing-Page-de-un-Restaurante) |
 | 🐾 PawFriends | Pet walking & care platform | HTML · CSS · JavaScript | [View repo →](https://github.com/m0dz/PawFriends-main) |
 
 ---
